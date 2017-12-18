@@ -1,0 +1,6 @@
+F:\C#\DescenteRec\DescenteRec\bin\Debug\DescenteRec.exe.config
+F:\C#\DescenteRec\DescenteRec\bin\Debug\DescenteRec.exe
+F:\C#\DescenteRec\DescenteRec\bin\Debug\DescenteRec.pdb
+F:\C#\DescenteRec\DescenteRec\obj\Debug\DescenteRec.csprojResolveAssemblyReference.cache
+F:\C#\DescenteRec\DescenteRec\obj\Debug\DescenteRec.exe
+F:\C#\DescenteRec\DescenteRec\obj\Debug\DescenteRec.pdb
